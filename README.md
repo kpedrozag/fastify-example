@@ -1,7 +1,7 @@
 # Fastify App Example
 
 This project is a small but feature complete application build with Fastify and Svelte,
-and it aims to show all the core concepts of Fastify, best practices, and recommendations.
+and it aims to show all the core concepts of Fastify, best practices, and recommendations..
 
 There is no attached blog post or tutorial, you should go through the application code
 and read the code comments, which will explain you best practices, protips, suggestions
